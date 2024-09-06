@@ -1,1 +1,1 @@
-# poo2-2024
+# Programacion Orientada a objetos II - 2024
